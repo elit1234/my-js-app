@@ -1,0 +1,18 @@
+.boxscore-teamscores {
+  overflow: hidden;
+}
+.boscore-teamscore {
+  float: left;
+}
+.boxscore-homescore {
+  float: right;
+  text-align: right;
+}
+
+.boxscore-title {
+  text-align: center;
+}
+
+.bosxcore-top {
+  padding: 0.5rem;
+}
