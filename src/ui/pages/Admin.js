@@ -240,7 +240,6 @@ export default function Admin() {
                   {listofUsers && (
                     <>
                       {Object.keys(listofUsers).map(function(key, index) {
-                        console.log(key);
                         return (
                           <Table.Row
                             key={key}
